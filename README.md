@@ -20,7 +20,7 @@ This design focuses on reducing alert fatigue and Mean Time to Respond (MTTR) by
 
   ## Video Walkthrough
   **Google Drive Link:**  
-PASTE_YOUR_GOOGLE_DRIVE_VIDEO_LINK_HERE
+https://drive.google.com/file/d/1mLoH-xGPkGqj2u25-F-zV5gzeBJ2ghRd/view?usp=sharing
 
 ## Notes
 - Wireframes are intentionally low-fidelity to focus on clarity, flow, and SOC usability.
